@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B7FF0,100:B8A9FF&height=180&section=header&text=MINJEONG%20CHO&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Backend%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Minjeong Cho - Backend & AI Developer" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Recommender_Systems-6C63FF?style=flat-square" alt="Recommender Systems" />
   <img src="https://img.shields.io/badge/LLM_Applications-8B5CF6?style=flat-square" alt="LLM Applications" />
   <img src="https://img.shields.io/badge/Knowledge_Graph-A78BFA?style=flat-square" alt="Knowledge Graph" />
