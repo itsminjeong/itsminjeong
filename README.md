@@ -62,7 +62,3 @@
   <a href="mailto:chominjung821@kookmin.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/itsminjeong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A9FF,50:8B7FF0,100:6C63FF&height=100&section=footer" width="100%" alt="footer" />
-</p>
