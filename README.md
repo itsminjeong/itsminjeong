@@ -82,7 +82,6 @@
 | **[EEUM](https://github.com/itsminjeong/2026-capstone-eeum)**<br/>개념 이해를 추적하는 AI 학습 튜터 | Backend<br/>PDF · Knowledge Graph · RAG · 학습 상태 추적 | FastAPI · PostgreSQL<br/>AWS Bedrock · S3 · RDS |
 | **[recsys-agnn](https://github.com/itsminjeong/recsys-agnn)**<br/>Cold-start 추천 연구 | Feature Injection<br/>Teacher–Student Embedding Transfer | PyTorch · LightGCN<br/>MF · GCN |
 | **[MultiAgent Paper Agent](https://github.com/itsminjeong/multiagent-paper-agent)**<br/>AI 논문 연구 도우미 | 논문 검색 · 분석<br/>참고문헌 · 코드 탐색 | OpenAI API<br/>Semantic Scholar · Streamlit |
-| **[Grid Overlay](https://github.com/itsminjeong/grid-overlay)**<br/>Windows 격자 오버레이 | Desktop Utility<br/>Global Hotkey · Click-through | Python · PySide6<br/>Windows API · PyInstaller |
 
 <br/>
 
